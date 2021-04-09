@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👩 My name is Lucila and I´m from Argentina :🇦🇷:
+👩 My name is Lucila and I´m from Argentina 🇦🇷
 
-🌱 I'm a civil engineer recently turned DATA SCIENTIST
+🌱 I'm a civil engineer recently turned DATA SCIENTIST :woman_technologist:
 
 🤓 In the last time, I did a 9-week full-time intensive coding bootcamp to learn 
   - [x] Data Science with Python;
